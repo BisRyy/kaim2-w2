@@ -2,6 +2,21 @@
 
 This project analyzes telecom data using Python and various data analysis libraries.
 
+## Screenshots
+![image](/screenshots/image.png)
+![image](/screenshots/image1.png)
+![image](/screenshots/image2.png)
+![image](/screenshots/image3.png)
+![image](/screenshots/image4.png)
+![image](/screenshots/image5.png)
+![image](/screenshots/image6.png)
+![image](/screenshots/image7.png)
+![image](/screenshots/image8.png)
+![image](/screenshots/image9.png)
+![image](/screenshots/image10.png)
+![image](/screenshots/image11.png)
+![image](/screenshots/image12.png)
+
 ## Installation
 
 1. Clone the repository:
